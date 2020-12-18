@@ -22,7 +22,8 @@ This site is for my portfolio.
 
 ![Zachary Burns](images/)
 
-I am Zachary Burns and I attend Durham college.
+I am Zachary Burns and I attend Durham college.I enjoy martial arts and other sports like hockey. Currently, I spend the most time on the computer,
+hoping to learn new things and enjoy as much as possible. 
 
 ### CONTACT INFO
 
